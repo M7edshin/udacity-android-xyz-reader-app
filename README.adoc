@@ -3,8 +3,7 @@
 # My Project Completion
 
 ## Screenshots
-[img]https://i.imgur.com/nO8NtCw.jpg?1[/img]
-![alt text](https://i.imgur.com/nO8NtCw.jpg?1)
+![alt text](https://i.imgur.com/nO8NtCw.jpg)
 
 _______________________________________________________________________________________________________________________________
 
