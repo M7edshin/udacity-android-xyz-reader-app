@@ -1,12 +1,5 @@
 # XYZ Reader App
 
-# My Project Completion
-
-## Screenshots
-![alt text](https://i.imgur.com/nO8NtCw.jpg)
-![alt text](https://i.imgur.com/uEpMgeD.jpg?1)
-_______________________________________________________________________________________________________________________________
-
 ## Project Overview
 
 In this project, you will redesign an app to follow the Material Design guidelines and translate a set of static design mocks to a living and breathing app.
@@ -29,7 +22,8 @@ Effectively use transitions and motion.
 You will improve an app for this project:
 
 XYZ Reader: A mock RSS feed reader featuring banner photos and headlines. 
-Download the code [here](https://github.com/udacity/xyz-reader-starter-code).
+[Download the code here](https://github.com/udacity/xyz-reader-starter-code)
+
 The app is currently functional, and work in most cases for most users.
 
 Your job will be to take the user feedback in the UI Review node, and implement changes that will improve the UI and make it conform to Material Design.
@@ -49,3 +43,9 @@ Spend time exploring the current state of the app, looking for ways it could be 
 Execute the improvements!
 Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 For detailed information on how your project will be assessed, see the Rubric node.
+
+__________________________________________________________________________________________________________________________
+# Completed
+
+## Screenshots
+![alt text](https://i.imgur.com/nO8NtCw.jpg)![alt text](https://i.imgur.com/uEpMgeD.jpg?1)
