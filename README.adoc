@@ -44,10 +44,3 @@ Spend time exploring the current state of the app, looking for ways it could be 
 Execute the improvements!
 Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 For detailed information on how your project will be assessed, see the Rubric node.
-
-__________________________________________________________________________________________________________________________
-# Completed
-
-## Screenshots
-
-![alt text](https://i.imgur.com/gPannuU.jpg?1) ![alt text](https://i.imgur.com/uEpMgeD.jpg?1)
