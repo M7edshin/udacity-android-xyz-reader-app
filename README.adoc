@@ -22,9 +22,7 @@ Effectively use transitions and motion.
 You will improve an app for this project:
 
 XYZ Reader: A mock RSS feed reader featuring banner photos and headlines. 
-
 [Download the code here](https://github.com/udacity/xyz-reader-starter-code)
-
 The app is currently functional, and work in most cases for most users.
 
 Your job will be to take the user feedback in the UI Review node, and implement changes that will improve the UI and make it conform to Material Design.
@@ -44,3 +42,6 @@ Spend time exploring the current state of the app, looking for ways it could be 
 Execute the improvements!
 Make a single GitHub repo with your code for the app and submit it through the Nanodegree portal. See the Submission and Evaluation node for detailed instructions.
 For detailed information on how your project will be assessed, see the Rubric node.
+
+## Completed
+![alt text](https://i.imgur.com/gPannuU.jpg?1) ![alt text](https://i.imgur.com/uEpMgeD.jpg?1)
